@@ -57,7 +57,7 @@ app.post("/send", async (req, res) => {
       port: 465,
       auth: {
         user: "stylesphere108@gmail.com",
-        pass: "eyay qzpg cage fvtc",
+        pass: "********",
       },
     });
 
